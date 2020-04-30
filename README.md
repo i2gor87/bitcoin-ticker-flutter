@@ -1,5 +1,6 @@
-![Android screenshot](https://github.com/i2gor87/bitcoin-ticker-flutter/blob/master/images/bitcoin-ticker_android.png)
-![iOS screenshot](https://github.com/i2gor87/bitcoin-ticker-flutter/blob/master/images/bitcoin-ticker_ios.png)
+Android             |  iOS
+:-------------------------:|:-------------------------:
+![Android screenshot](https://github.com/i2gor87/bitcoin-ticker-flutter/blob/master/images/bitcoin-ticker_android.png)  |  ![iOS screenshot](https://github.com/i2gor87/bitcoin-ticker-flutter/blob/master/images/bitcoin-ticker_ios.png)
 
 
 # Bitcoin Ticker 🤑
